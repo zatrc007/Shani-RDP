@@ -1,4 +1,4 @@
-name: ARIFPAKTIGER2021
+name: ShaniRDP
 
 on: [push, workflow_dispatch]
 
